@@ -1,4 +1,4 @@
-# create calculator learn js
+# create calculator (JavaScript learn step)
 
 ```
 var monthName = "May, 2018";
